@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Red on Coffee Grounds</title>
-    <link>https://coffeegrounds.francis.eu.org/tags/red/</link>
+    <link>https://francishank.github.io/tags/red/</link>
     <description>Recent content in Red on Coffee Grounds</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
-    <atom:link href="https://coffeegrounds.francis.eu.org/tags/red/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://francishank.github.io/tags/red/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post 3</title>
-      <link>https://coffeegrounds.francis.eu.org/posts/post-branch-example/</link>
+      <link>https://francishank.github.io/posts/post-branch-example/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>https://coffeegrounds.francis.eu.org/posts/post-branch-example/</guid>
+      <guid>https://francishank.github.io/posts/post-branch-example/</guid>
       <description>Occaecat aliqua consequat laborum ut ex aute aliqua culpa quis irure esse magna dolore quis. Proident fugiat labore eu laboris officia Lorem enim. Ipsum occaecat cillum ut tempor id sint aliqua incididunt nisi incididunt reprehenderit. Voluptate ad minim sint est aute aliquip esse occaecat tempor officia qui sunt. Aute ex ipsum id ut in est velit est laborum incididunt. Aliqua qui id do esse sunt eiusmod id deserunt eu nostrud aute sit ipsum.</description>
     </item>
     <item>
       <title>Post 1</title>
-      <link>https://coffeegrounds.francis.eu.org/posts/cb_kinds/</link>
+      <link>https://francishank.github.io/posts/cb_kinds/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>https://coffeegrounds.francis.eu.org/posts/cb_kinds/</guid>
+      <guid>https://francishank.github.io/posts/cb_kinds/</guid>
       <description>Types of Coffee Beans There are primarily four main types of coffee beans that are widely recognized and cultivated for commercial use. These are Arabica, Robusta, Liberica, and Excelsa. Here&amp;rsquo;s a breakdown of each:&#xA;Arabica (Coffea arabica):&#xA;Origins: Indigenous to the forests of the southwestern highlands of Ethiopia. Description: Known for its smooth, mild flavor with slightly acidic tones and a range of nuanced flavors depending on the region of cultivation.</description>
     </item>
   </channel>
