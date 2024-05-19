@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en-us"
+  dir="ltr">
+
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+<title>
+    
+    Posts | Coffee Grounds
+    
+</title>
+
+
+
+<link rel="stylesheet" href="/assets/combined.min.dcb17aac13c80d97ee5796c67fd8fec3916cafa5e465f01fd50310b065d1745b.css" media="all">
+
+
+
+
+  
+
+
+
+  </head>
+
+  
+
+  
+
+  <body class="auto">
+
+    <div class="content">
+      <header>
+        
+
+<div class="header">
+    <h1 class="header-title">Coffee Grounds</h1>
+
+    <div class="flex">
+        
+
+        
+    </div>
+
+</div>
+      </header>
+
+      <main class="main">
+        
+
+
+
+<h1>Posts</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="post-line">
+
+    
+    
+
+    <p class="line-date">17 May 2024 </p>
+
+    <div>
+        <p class="line-title">
+            <a href="/posts/types_of_coffee_beans/">
+                Types of Coffee beans
+            </a>
+        </p>
+
+        
+    </div>
+</div>
+
+
+
+
+
+
+
+      </main>
+    </div>
+
+    <footer>
+      
+
+
+    </footer>
+
+  </body>
+
+  <script>
+
+  function isAuto() {
+    return document.body.classList.contains("auto");
+  }
+
+  function setTheme() {
+    if (!isAuto()) {
+      return
+    }
+
+    document.body.classList.remove("auto");
+    let cls = "light";
+    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      cls = "dark";
+    }
+
+    document.body.classList.add(cls);
+  }
+
+  function invertBody() {
+    document.body.classList.toggle("dark");
+    document.body.classList.toggle("light");
+  }
+
+  if (isAuto()) {
+    window.matchMedia('(prefers-color-scheme: dark)').addListener(invertBody);
+  }
+
+  setTheme();
+
+</script>
+
+</html>
